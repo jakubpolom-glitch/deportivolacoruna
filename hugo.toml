@@ -1,13 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'My Hugo news site'
+title = 'REAL CLUB DEPORTIVO DE LA CORUNA'
 
 # Google Analytics 4 - Just add your G-XXXXXXXXXX ID here
 googleAnalytics = "" # e.g. "G-MEASUREMENT_ID"
 
 # SEO Parameters
 [params]
-  description = "Breaking news and in-depth analysis on current events, politics, and social issues"
+  description = "Najnowsze informacje o klubie, meczach, transferach"
   keywords = ["news", "current events", "politics", "social issues", "analysis"]
   author = "News Team"
   
